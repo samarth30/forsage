@@ -12,4 +12,4 @@ you have to download tronlink wallet set to shasta test net and also get shasta 
 
 <img src="https://raw.githubusercontent.com/samarth30/forsage/master/Screenshot%20from%202020-08-11%2009-09-32.png"/>
 
-<img src="https://raw.githubusercontent.com/samarth30/forsage/master/Screenshot%20from%202020-08-11%2009-10-17.png"/>
+<img src="https://raw.githubusercontent.com/samarth30/forsage/master/Screenshot%20from%202020-08-11%2009-10-17.png"/> 
